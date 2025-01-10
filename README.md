@@ -11,7 +11,7 @@ This Python script utilizes Scapy to sniff network packets and log details into 
 
 1. Clone the repository:
    ```bash
-   https://github.com/Ramya-Sree-V/Network_Packet_Logger.git
+   git clone https://github.com/Ramya-Sree-V/Network_Packet_Logger.git
    ```
 2. Install required dependencies:
    ```bash
